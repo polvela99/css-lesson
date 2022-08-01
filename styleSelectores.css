@@ -1,0 +1,15 @@
+*{
+    color: red;
+}
+.container{
+    color: blue;
+}
+h1{
+    color: green;
+}
+#container{
+    color: blueviolet;
+}
+h1{
+    color: yellow !important;
+}
