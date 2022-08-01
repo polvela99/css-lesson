@@ -1,0 +1,15 @@
+div{
+    border-top: 4px dotted green;
+    border-right: 10px dashed blue;
+    border-left: 6px double darkblue;
+    border-bottom: 12px solid yellow;
+    padding: 75px;
+    margin: 200px 300px;
+}
+p{text-align: justify;
+font-size: 200%;
+}
+h1{
+    font-size: 250%;
+}
+   
