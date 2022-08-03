@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(245, 239, 185);
+}
+
+div{
+    width: 500px;
+    height: 30px;
+    border: 1px solid grey;
+    background-color: white;
+    margin-bottom: 30px;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    padding-top:6px;
+    font-size: 25px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.boxTop{
+    margin-top:2cm;
+    padding-left: 5px;
+}
+.boxCenter{
+    text-align: center;
+}
+.boxRight{
+    text-align: right;
+    padding-right: 5px;
+}
